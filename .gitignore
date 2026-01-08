@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Sanal Ortam
+venv/
+env/
+
+# PyInstaller & Derleme
+build/
+dist/
+*.spec
+build_deb/
+
+# Paketler
+*.deb
+*.iso
+
+# IDE
+.idea/
+.vscode/
+.DS_Store
